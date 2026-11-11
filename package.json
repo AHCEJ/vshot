@@ -1,0 +1,9 @@
+{
+  "name": "vshot",
+  "private": true,
+  "scripts": {
+    "watch": "dotnet watch --project backend",
+    "dev": "pnpm --dir client dev",
+    "build": "pnpm --dir client build"
+  }
+}
